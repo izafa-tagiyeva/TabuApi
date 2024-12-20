@@ -62,9 +62,11 @@ namespace Tabu.Services.Implements
             }
 
             LanguageUpdateDto _dto = new();
-            _dto.Name = data.Name;
-            _dto.Icon = data.Icon;
+            data.Name = _dto.Name;
+            data.Icon = _dto.Icon;
 
+            //_dto.Icon = data.Icon;
+            //_dto.Name = data.Name;
 
             await _context.SaveChangesAsync();
         }
