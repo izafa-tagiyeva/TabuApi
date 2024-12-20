@@ -32,6 +32,7 @@ namespace Tabu.Services.Implements
                 Icon = x.Icon,
             }).ToListAsync();
         }
+        [HttpGet]
         public async Task<LanguageGetDto> GetByCode(string code)
         {
             var language = await _context.Languages.FindAsync(code);
@@ -48,20 +49,22 @@ namespace Tabu.Services.Implements
         }
 
 
-        [HttpGet]
-        public async Task UpdateAsync(string code)
+        [HttpPut]
+        public async Task UpdateAsync(string code, LanguageUpdateDto _dto)
         {
+
             if (string.IsNullOrEmpty(code))
             {
                 throw new ArgumentNullException(nameof(code), "Code cannot be null or empty");
             }
+
+
             var data = await GetByCode(code);
             if (data == null)
             {
                 throw new KeyNotFoundException("Data not found for the given code");
             }
 
-            LanguageUpdateDto _dto = new();
             data.Name = _dto.Name;
             data.Icon = _dto.Icon;
 
@@ -72,24 +75,24 @@ namespace Tabu.Services.Implements
         }
 
        
-        [HttpPost]
-        public async Task UpdateAsync(string code, LanguageUpdateDto _dto)
-        {
-            if (string.IsNullOrEmpty(code))
-            {
-                throw new ArgumentNullException(nameof(code), "Code cannot be null or empty");
-            }
-            var data = await GetByCode(code);
-            if (data == null)
-            {
-                throw new KeyNotFoundException("Data not found for the given code");
-            }
-            data.Name = _dto.Name;
-            data.Icon = _dto.Icon;
+        //[HttpPost]
+        //public async Task UpdateAsync(string code, LanguageUpdateDto _dto)
+        //{
+        //    if (string.IsNullOrEmpty(code))
+        //    {
+        //        throw new ArgumentNullException(nameof(code), "Code cannot be null or empty");
+        //    }
+        //    var data = await GetByCode(code);
+        //    if (data == null)
+        //    {
+        //        throw new KeyNotFoundException("Data not found for the given code");
+        //    }
+        //    data.Name = _dto.Name;
+        //    data.Icon = _dto.Icon;
 
-            await _context.SaveChangesAsync();
+        //    await _context.SaveChangesAsync();
            
-        }
+        //}
 
         public async Task DeleteAsync(string code)
         {

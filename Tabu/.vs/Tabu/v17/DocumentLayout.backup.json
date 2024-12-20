@@ -1,58 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\",
+  "WorkspaceRootPath": "C:\\Users\\II novbe\\Desktop\\IntroApi\\TabuApi\\Tabu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\introapi\\tabu\\services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\introapi\\tabuapi\\tabu\\services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\introapi\\tabu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\introapi\\tabu\\services\\abstracts\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:services\\abstracts\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\introapi\\tabu\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\introapi\\tabu\\dtos\\languages\\languageupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:dtos\\languages\\languageupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\introapi\\tabu\\dtos\\languages\\languagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:dtos\\languages\\languagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\introapi\\tabu\\dtos\\languages\\languagegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:dtos\\languages\\languagegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\introapi\\tabu\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\introapi\\tabu\\tabu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:tabu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\introapi\\tabu\\dal\\tabudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:dal\\tabudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\introapi\\tabu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\introapi\\tabuapi\\tabu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\Migrations\\20241219215731_CreatedLanguagesTAble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241219215731_CreatedLanguagesTAble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\introapi\\tabu\\migrations\\20241219221524_createdlanguagestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:migrations\\20241219221524_createdlanguagestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,166 +17,38 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 184,
+          "DockedHeight": 200,
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LanguageUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\DTOs\\Languages\\LanguageUpdateDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\Languages\\LanguageUpdateDto.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\DTOs\\Languages\\LanguageUpdateDto.cs",
-              "RelativeToolTip": "DTOs\\Languages\\LanguageUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T05:51:01.411Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "LanguageService.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\Services\\Implements\\LanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\IntroApi\\TabuApi\\Tabu\\Services\\Implements\\LanguageService.cs",
               "RelativeDocumentMoniker": "Services\\Implements\\LanguageService.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\Services\\Implements\\LanguageService.cs*",
-              "RelativeToolTip": "Services\\Implements\\LanguageService.cs*",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAEEAAAAXAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\IntroApi\\TabuApi\\Tabu\\Services\\Implements\\LanguageService.cs",
+              "RelativeToolTip": "Services\\Implements\\LanguageService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T23:37:51.071Z",
+              "WhenOpened": "2024-12-20T14:01:11.463Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LanguageCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\DTOs\\Languages\\LanguageCreateDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\Languages\\LanguageCreateDto.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\DTOs\\Languages\\LanguageCreateDto.cs",
-              "RelativeToolTip": "DTOs\\Languages\\LanguageCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T23:41:14.745Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T21:16:10.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LanguagesController.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\Controllers\\LanguagesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LanguagesController.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\Controllers\\LanguagesController.cs",
-              "RelativeToolTip": "Controllers\\LanguagesController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T23:12:09.791Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LanguageGetDto.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\DTOs\\Languages\\LanguageGetDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\Languages\\LanguageGetDto.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\DTOs\\Languages\\LanguageGetDto.cs",
-              "RelativeToolTip": "DTOs\\Languages\\LanguageGetDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T23:42:45.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ILanguageService.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\Services\\Abstracts\\ILanguageService.cs",
-              "RelativeDocumentMoniker": "Services\\Abstracts\\ILanguageService.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\Services\\Abstracts\\ILanguageService.cs",
-              "RelativeToolTip": "Services\\Abstracts\\ILanguageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T23:37:13.854Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20241219215731_CreatedLanguagesTAble.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\Migrations\\20241219215731_CreatedLanguagesTAble.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241219215731_CreatedLanguagesTAble.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\Migrations\\20241219215731_CreatedLanguagesTAble.cs",
-              "RelativeToolTip": "Migrations\\20241219215731_CreatedLanguagesTAble.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T21:57:31.636Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TabuDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\DAL\\TabuDbContext.cs",
-              "RelativeDocumentMoniker": "DAL\\TabuDbContext.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\DAL\\TabuDbContext.cs",
-              "RelativeToolTip": "DAL\\TabuDbContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T21:22:23.292Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Language.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\Entities\\Language.cs",
-              "RelativeDocumentMoniker": "Entities\\Language.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\Entities\\Language.cs",
-              "RelativeToolTip": "Entities\\Language.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T21:27:09.956Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Tabu.csproj",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\Tabu.csproj",
-              "RelativeDocumentMoniker": "Tabu.csproj",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\Tabu.csproj",
-              "RelativeToolTip": "Tabu.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-19T21:20:29.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20241219221524_CreatedLanguagesTable.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\Migrations\\20241219221524_CreatedLanguagesTable.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241219221524_CreatedLanguagesTable.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\Migrations\\20241219221524_CreatedLanguagesTable.cs",
-              "RelativeToolTip": "Migrations\\20241219221524_CreatedLanguagesTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T22:15:24.432Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\IntroApi\\TabuApi\\Tabu\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\IntroApi\\Tabu\\appsettings.json",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\IntroApi\\TabuApi\\Tabu\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-19T21:17:19.022Z"
+              "WhenOpened": "2024-12-20T13:58:49.14Z",
+              "EditorCaption": ""
             }
           ]
         }
