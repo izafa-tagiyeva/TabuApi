@@ -23,7 +23,7 @@ namespace Tabu
 
             builder.Services.AddDbContext<TabuDbContext>(s => s.UseSqlServer(builder.Configuration.GetConnectionString("MSSql")));
 
-            builder.Services.AddScoped<ILanguageService, LanguageService>();
+            builder.Services.AddServices();
             builder.Services.AddFluentValidationAutoValidation();
             builder.Services.AddValidatorsFromAssemblyContaining<Program>();
             builder.Services.AddEndpointsApiExplorer();

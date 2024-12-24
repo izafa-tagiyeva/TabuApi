@@ -61,5 +61,37 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tabu.Controllers.WordsController",
+    "Method": "Create",
+    "RelativePath": "api/Words",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Tabu.DTOs.Words.WordCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tabu.Controllers.WordsController",
+    "Method": "CreateMany",
+    "RelativePath": "api/Words/CreateMany",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "System.Collections.Generic.List\u00601[[Tabu.DTOs.Words.WordCreateDto, Tabu, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
