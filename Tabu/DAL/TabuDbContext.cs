@@ -11,6 +11,8 @@ namespace Tabu.DAL
         {
         }
         public DbSet<Language> Languages { get; set; }
+        public DbSet<Word> Word { get; set; }
+        public DbSet<BannedWord> BannedWord { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Language>(b =>
@@ -30,8 +32,32 @@ namespace Tabu.DAL
                     Name = "Azərbaycan",
                     Icon="https://cdn-icons-png.flaticon.com/512/330/33054.png"
                 });
-
+                modelBuilder.Entity<Word>(w =>
+                {
+                    w.Property(x => x.Text)
+                    .IsRequired()
+                    .HasMaxLength(32);
+                    w.HasOne(x => x.Language)
+                    .WithMany(x => x.Words)
+                    .HasForeignKey(x => x.LanguageCode);
+                    w.HasMany(x => x.BannedWords)
+                    .WithOne(x => x.Word)
+                    .HasForeignKey(x => x.WordId);
+                });
+                modelBuilder.Entity<Game>(g =>
+                {
+                    g.HasOne(x => x.Language)
+                    .WithMany(x => x.Games)
+                    .HasForeignKey(x => x.LanguageCode);
+                });
+                modelBuilder.Entity<BannedWord>(bw =>
+                {
+                    bw.Property(x => x.Text)
+                    .IsRequired()
+                    .HasMaxLength(32);
+                });
             });
+
             base.OnModelCreating(modelBuilder);
         }
 
