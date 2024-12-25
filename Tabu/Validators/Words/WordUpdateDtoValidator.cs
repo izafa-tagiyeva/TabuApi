@@ -3,7 +3,7 @@ using Tabu.DTOs.Words;
 
 namespace Tabu.Validators.Words
 {
-    public class WordUpdateDtoValidator : AbstractValidator<WordUpdateDto>
+    public class WordUpdateDtoValidator : AbstractValidator<WordForGameDto>
     {
         public WordUpdateDtoValidator()
         {

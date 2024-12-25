@@ -1,5 +1,26 @@
 [
   {
+    "ContainingType": "Tabu.Controllers.BannedWordsController",
+    "Method": "Update",
+    "RelativePath": "api/BannedWords",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Tabu.DTOs.BannerWords.BannedWordUpdateDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Tabu.Controllers.LanguagesController",
     "Method": "Read",
     "RelativePath": "api/Languages",
@@ -64,6 +85,16 @@
   },
   {
     "ContainingType": "Tabu.Controllers.WordsController",
+    "Method": "Read",
+    "RelativePath": "api/Words",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tabu.Controllers.WordsController",
     "Method": "Create",
     "RelativePath": "api/Words",
     "HttpMethod": "POST",
@@ -74,6 +105,43 @@
         "Name": "dto",
         "Type": "Tabu.DTOs.Words.WordCreateDto",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tabu.Controllers.WordsController",
+    "Method": "Update",
+    "RelativePath": "api/Words",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_dto",
+        "Type": "Tabu.DTOs.Words.WordForGameDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tabu.Controllers.WordsController",
+    "Method": "Delete",
+    "RelativePath": "api/Words",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

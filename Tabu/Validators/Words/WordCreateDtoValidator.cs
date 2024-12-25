@@ -14,13 +14,6 @@ namespace Tabu.Validators.Words
                 .WithMessage("Text can not be null !")
                 .MaximumLength(32)
                 .WithMessage("Text length can not be more than 32!");
-            RuleFor(x => x.LanguageCode)
-                .NotEmpty()
-                .WithMessage("LanguageCode can not be empty!")
-                .NotEmpty()
-                .WithMessage("LanguageCode can not be null !")
-                .MaximumLength(2)
-                .WithMessage("LanguageCode length can not be more than 2!");
             RuleForEach(x => x.BannerWords)
                 .NotEmpty()
                 .WithMessage("LanguageCode can not be empty!")

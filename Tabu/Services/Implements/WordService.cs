@@ -15,6 +15,20 @@ namespace Tabu.Services.Implements
     public class WordService(TabuDbContext _context, IMapper _mapper) : IWordService
     {
 
+        public async Task<IEnumerable<WordForGameDto>> GetAllAsync()
+        {
+            var datas = await _context.Word.Include(x=>x.BannedWords).ToListAsync();
+            
+
+             var words = _mapper.Map<IEnumerable<WordForGameDto>>(datas);
+
+             
+
+            return words;
+                
+        }
+
+
 
         public async Task<int> CreateAsync(WordCreateDto dto)
         {
@@ -45,14 +59,9 @@ namespace Tabu.Services.Implements
             await _context.SaveChangesAsync();
         }
 
-        public async Task<IEnumerable<WordGetDto>> GetAllAsync()
-        {
-            var datas = await _context.Word.ToListAsync();
+    
 
-            return _mapper.Map<IEnumerable<WordGetDto>>(datas);
-        }
-
-        public async Task UpdateAsync(WordUpdateDto dto, int id)
+        public async Task UpdateAsync(WordForGameDto dto, int id)
         {
             if (id == null)
             {

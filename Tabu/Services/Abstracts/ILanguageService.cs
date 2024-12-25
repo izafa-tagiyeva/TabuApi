@@ -8,7 +8,7 @@ namespace Tabu.Services.Abstracts
          Task<IEnumerable<LanguageGetDto>> GetAllAsync();
          Task DeleteAsync(string code);
          Task UpdateAsync(string code, LanguageUpdateDto _dto);
-         Task<LanguageGetDto> GetByCode(string code);
+         //Task<LanguageGetDto> GetByCode(string code);
 
     }
 }

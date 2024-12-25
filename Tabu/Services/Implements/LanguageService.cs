@@ -37,25 +37,26 @@ namespace Tabu.Services.Implements
             var datas = await _context.Languages.ToListAsync();
             
             return _mapper.Map<IEnumerable<LanguageGetDto>>(datas);
+
         }
-        [HttpGet]
-        public async Task<LanguageGetDto> GetByCode(string code)
-        {
-            var language = await _context.Languages.FindAsync(code);
-            if (language == null)
-            {
-                return null;
-            }
+        //[HttpGet]
+        //public async Task<LanguageGetDto> GetByCode(string code)
+        //{
+        //    var language = await _context.Languages.FindAsync(code);
+        //    if (language == null)
+        //    {
+        //        return null;
+        //    }
 
-            return new LanguageGetDto
-            {
-                Name = language.Name,
-                Icon = language.Icon
-            };
-        }
+        //    return new LanguageGetDto
+        //    {
+        //        Name = language.Name,
+        //        Icon = language.Icon
+        //    };
+        //}
 
 
-        [HttpPut]
+        //[HttpPut]
         public async Task UpdateAsync(string code, LanguageUpdateDto _dto)
         {
 
@@ -63,18 +64,20 @@ namespace Tabu.Services.Implements
             {
                 throw new ArgumentNullException(nameof(code), "Code cannot be null or empty");
             }
-            var data = await GetByCode(code);
+            var data = await _context.Languages.FindAsync(code); ;
             if (data == null)
             {
                 throw new LanguageNotFoundException();
             }
 
-            //data.Name = _dto.Name;
-            //data.Icon = _dto.Icon;
-            _mapper.Map(_dto, data);
-
+            data.Name = _dto.Name;
+            data.Icon = _dto.Icon;
+  
+            //_mapper.Map(_dto, data);
 
             await _context.SaveChangesAsync();
+
+
         }
 
        

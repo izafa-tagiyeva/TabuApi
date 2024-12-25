@@ -57,10 +57,10 @@ namespace Tabu.Controllers
         [HttpPut]
         public async Task<IActionResult> Update(string code, LanguageUpdateDto _dto)
         {
-          //  await _service.UpdateAsync(code, _dto);
-          var data = _mapper.Map<Language>( _dto);
+            await _service.UpdateAsync(code, _dto);
+          //var data = _mapper.Map<Language>( _dto);
 
-            return Ok(data);
+            return Ok();
         }
 
         ////////////////////////////////////////////////////////////

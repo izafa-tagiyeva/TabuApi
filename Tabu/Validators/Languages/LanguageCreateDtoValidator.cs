@@ -7,7 +7,7 @@ namespace Tabu.Validators.Languages
     {
         public LanguageCreateDtoValidator()
         {
-            RuleFor(x => x.Name)
+            RuleFor(x => x.Code)
                 .NotNull()
                 .NotEmpty()
                     .WithMessage("Code can not be empty or null!")

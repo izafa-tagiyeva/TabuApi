@@ -9,8 +9,9 @@ namespace Tabu.Profiles
         public WordProfile()
         {
             CreateMap<WordCreateDto, Word>();
-            CreateMap<Word, WordGetDto>();
-            CreateMap<WordUpdateDto, Word>();
+            CreateMap<Word, WordForGameDto>()
+                .ForMember(x=>x.BanendWords , opt=>opt.MapFrom(x=>x.BannedWords.Select(x=>x.Text).ToList()))
+                .ReverseMap();
         }
     }
 }
