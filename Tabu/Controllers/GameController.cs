@@ -16,18 +16,37 @@ namespace Tabu.Controllers
             return Ok(await _service.CreateAsync(dto));
         }
 
-        [HttpGet("[action]")]
-        public async Task<IActionResult> Get(string key)
+        [HttpPost("[action]")]
+        public async Task<IActionResult> Start(Guid Id)
         {
-            return Ok(_cache.Get(key));
+            return Ok(await _service.Start(Id));
+        }
+
+        [HttpPost("[action]")]
+        public async Task<IActionResult> Skip(Guid Id)
+        {
+            return Ok(await _service.Skip(Id));
         }
 
 
-        [HttpGet("[action]")]
-        public async Task<IActionResult> Set(string key, string value)
-        {
-            return Ok(_cache.Set<string>(key , value , DateTime.Now.AddSeconds(20)));
-        }
+
+
+
+
+        //[HttpGet("[action]")]
+        //public async Task<IActionResult> Get(string key)
+        //{
+        //    return Ok(_cache.Get(key));
+        //}
+
+
+        //[HttpGet("[action]")]
+        //public async Task<IActionResult> Set(string key, string value)
+        //{
+        //    return Ok(_cache.Set<string>(key , value , DateTime.Now.AddSeconds(20)));
+        //}
+
+
 
 
     }

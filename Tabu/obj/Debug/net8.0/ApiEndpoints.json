@@ -38,15 +38,15 @@
   },
   {
     "ContainingType": "Tabu.Controllers.GameController",
-    "Method": "Get",
-    "RelativePath": "api/Game/Get",
-    "HttpMethod": "GET",
+    "Method": "Skip",
+    "RelativePath": "api/Game/Skip",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "key",
-        "Type": "System.String",
+        "Name": "Id",
+        "Type": "System.Guid",
         "IsRequired": false
       }
     ],
@@ -54,20 +54,15 @@
   },
   {
     "ContainingType": "Tabu.Controllers.GameController",
-    "Method": "Set",
-    "RelativePath": "api/Game/Set",
-    "HttpMethod": "GET",
+    "Method": "Start",
+    "RelativePath": "api/Game/Start",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "key",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "value",
-        "Type": "System.String",
+        "Name": "Id",
+        "Type": "System.Guid",
         "IsRequired": false
       }
     ],
