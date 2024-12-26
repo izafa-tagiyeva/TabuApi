@@ -10,7 +10,7 @@ namespace Tabu.Controllers
     [ApiController]
     public class GameController(IGameService _service,IMemoryCache _cache) : ControllerBase
     {
-        [HttpPost]
+        [HttpPost("[action]")]
         public async Task<IActionResult> Create(GameCreateDto dto)
         {
             return Ok(await _service.CreateAsync(dto));
@@ -28,8 +28,23 @@ namespace Tabu.Controllers
             return Ok(await _service.Skip(Id));
         }
 
+        [HttpPost("[action]")]
+        public async Task<IActionResult> Success(Guid Id)
+        {
+            return Ok(await _service.Success(Id));
+        }
 
+        [HttpPost("[action]")]
+        public async Task<IActionResult> Fail(Guid Id)
+        {
+            return Ok(await _service.Fail(Id));
+        }
 
+        [HttpPost("[action]")]
+        public async Task<IActionResult> End(Guid Id)
+        {
+            return Ok(await _service.End(Id));
+        }
 
 
 

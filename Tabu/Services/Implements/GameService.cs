@@ -7,6 +7,7 @@ using Tabu.DTOs.Words;
 using Tabu.Entities;
 using Tabu.Extensions;
 using Tabu.Services.Abstracts;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Tabu.Services.Implements
 {
@@ -19,15 +20,33 @@ namespace Tabu.Services.Implements
             await _context.SaveChangesAsync();
             return game.Id;
         }
-
-        public Task End(Guid Id)
+         public async Task<WordForInDto> Success(Guid Id)
         {
-            throw new NotImplementedException();
+            var status = _getCurrentGame(Id);
+            var currentWord = status.Words.Pop();
+            status.Success++;
+            _cache.Set(Id, status, TimeSpan.FromSeconds(300));
+            return currentWord;
         }
 
-        public Task Fail(Guid Id)
+        public async Task<WordForInDto> Fail(Guid Id)
         {
-            throw new NotImplementedException();
+            var status = _getCurrentGame(Id);
+            var currentWord = status.Words.Pop();
+            status.Fail++;
+            _cache.Set(Id, status, TimeSpan.FromSeconds(300));
+            return currentWord;
+
+        }
+
+        public async Task<int> End(Guid Id)
+        {
+            var status = _getCurrentGame(Id);
+            await Task.Delay( 10 * 1000);
+           
+            int score = (3 * status.Success) - status.Fail;
+
+            return score;
         }
 
         public async Task<WordForInDto> Skip(Guid Id)
@@ -53,7 +72,7 @@ namespace Tabu.Services.Implements
             }
 
             IQueryable<Word> query = _context.Word.Where(x => x.LanguageCode == game.LanguageCode);
-          var words =  await query.Select(x => new WordForInDto
+            var words =  await query.Select(x => new WordForInDto
             {
                 Id = x.Id,
                 Word = x.Text,
@@ -61,25 +80,26 @@ namespace Tabu.Services.Implements
             }).Random(await query.CountAsync())
                .Take(20)
                .ToListAsync();
+
             var wordsStack = new Stack<WordForInDto>(words);
-            WordForInDto currentWord = wordsStack.Pop();    
+            WordForInDto currentWord = wordsStack.Pop();
+            
             GameStatusDto status = new GameStatusDto() 
             { 
                 Fail = 0,
                 Skip= 0,
                 Success= 0,
                 Words = wordsStack,
-                UsedWordId = words.Select(x => x.Id)
+                UsedWordId = words.Select(x => x.Id),
+                MaxSkipCount = (byte)game.SkipCount,
+
             };
 
             _cache.Set(Id, status , TimeSpan.FromSeconds(300)); //game.Time+20
             return currentWord;
         }
 
-        public Task Success(Guid Id)
-        {
-            throw new NotImplementedException();
-        }
+     
 
         GameStatusDto _getCurrentGame(Guid id)
         {

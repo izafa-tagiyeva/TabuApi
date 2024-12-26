@@ -23,7 +23,7 @@
   {
     "ContainingType": "Tabu.Controllers.GameController",
     "Method": "Create",
-    "RelativePath": "api/Game",
+    "RelativePath": "api/Game/Create",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -32,6 +32,38 @@
         "Name": "dto",
         "Type": "Tabu.DTOs.Games.GameCreateDto",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tabu.Controllers.GameController",
+    "Method": "End",
+    "RelativePath": "api/Game/End",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tabu.Controllers.GameController",
+    "Method": "Fail",
+    "RelativePath": "api/Game/Fail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
@@ -56,6 +88,22 @@
     "ContainingType": "Tabu.Controllers.GameController",
     "Method": "Start",
     "RelativePath": "api/Game/Start",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tabu.Controllers.GameController",
+    "Method": "Success",
+    "RelativePath": "api/Game/Success",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,

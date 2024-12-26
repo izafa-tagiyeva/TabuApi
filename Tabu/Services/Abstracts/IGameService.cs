@@ -8,9 +8,9 @@ namespace Tabu.Services.Abstracts
     {
         Task<Guid> CreateAsync(GameCreateDto dto);
         Task<WordForInDto> Start(Guid Id);
-        Task Fail(Guid Id);
-        Task Success(Guid Id);
+        Task<WordForInDto> Fail(Guid Id);
+        Task<WordForInDto> Success(Guid Id);
         Task<WordForInDto> Skip(Guid Id);
-        Task End(Guid Id);
+        Task<int> End(Guid Id);
     }
 }
