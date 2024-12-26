@@ -1,161 +1,173 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\",
+  "WorkspaceRootPath": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\profiles\\bannedwordprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:profiles\\bannedwordprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\services\\implements\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:services\\implements\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\services\\implements\\bannedwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:services\\implements\\bannedwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\services\\abstracts\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:services\\abstracts\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\services\\abstracts\\ibannedwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\dtos\\games\\gamecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:dtos\\games\\gamecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\services\\abstracts\\ibannedwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:services\\abstracts\\ibannedwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\dtos\\bannerwords\\bannedwordupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:dtos\\bannerwords\\bannedwordupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\controllers\\bannedwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:controllers\\bannedwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\services\\implements\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:services\\implements\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\entities\\bannedword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:entities\\bannedword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\services\\abstracts\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:services\\abstracts\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\profiles\\languageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:profiles\\languageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\dtos\\languages\\languagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:dtos\\languages\\languagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\services\\abstracts\\iwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:services\\abstracts\\iwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\profiles\\wordprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:profiles\\wordprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\dtos\\words\\wordforgamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:dtos\\words\\wordforgamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\validators\\words\\wordcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:validators\\words\\wordcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\dtos\\words\\wordcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:dtos\\words\\wordcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\validators\\words\\wordupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\profiles\\bannedwordprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:profiles\\bannedwordprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\services\\implements\\bannedwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:services\\implements\\bannedwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\dtos\\bannerwords\\bannedwordupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:dtos\\bannerwords\\bannedwordupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\controllers\\bannedwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:controllers\\bannedwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\services\\implements\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:services\\implements\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\entities\\bannedword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:entities\\bannedword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\services\\abstracts\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:services\\abstracts\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\profiles\\languageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:profiles\\languageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\dtos\\languages\\languagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:dtos\\languages\\languagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\services\\abstracts\\iwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:services\\abstracts\\iwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\profiles\\wordprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:profiles\\wordprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\dtos\\words\\wordforgamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:dtos\\words\\wordforgamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\validators\\words\\wordcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:validators\\words\\wordcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\dtos\\words\\wordcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:dtos\\words\\wordcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\validators\\words\\wordupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:validators\\words\\wordupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\validators\\languages\\languagecreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\validators\\languages\\languagecreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:validators\\languages\\languagecreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\dal\\tabudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\dal\\tabudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:dal\\tabudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\exceptions\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\exceptions\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:exceptions\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\exceptions\\bannerword\\bannedwordnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\exceptions\\bannerword\\bannedwordnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:exceptions\\bannerword\\bannedwordnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\exceptions\\language\\languagenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\exceptions\\language\\languagenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:exceptions\\language\\languagenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\exceptions\\bannerword\\bannedwordexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\exceptions\\bannerword\\bannedwordexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:exceptions\\bannerword\\bannedwordexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\exceptions\\language\\languageexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\exceptions\\language\\languageexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:exceptions\\language\\languageexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\exceptions\\word\\wordnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\exceptions\\word\\wordnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:exceptions\\word\\wordnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\exceptions\\word\\wordexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\exceptions\\word\\wordexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:exceptions\\word\\wordexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\validators\\bannerwords\\bannedwordupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\validators\\bannerwords\\bannedwordupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:validators\\bannerwords\\bannedwordupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\migrations\\20241224074718_word-bannerword-games-created.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\migrations\\20241224074718_word-bannerword-games-created.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:migrations\\20241224074718_word-bannerword-games-created.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\validators\\languages\\languageupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\validators\\languages\\languageupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:validators\\languages\\languageupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\tabu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\tabu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:tabu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\ii novbe\\desktop\\tabuapi\\tabu\\migrations\\20241224150448_gamescreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|c:\\users\\izafe\\onedrive\\desktop\\tabuapi\\tabu\\migrations\\20241224150448_gamescreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9F7BDA2-679A-46EE-9EEC-A1D10437753E}|Tabu.csproj|solutionrelative:migrations\\20241224150448_gamescreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -166,28 +178,54 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BannedWordService.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Services\\Implements\\BannedWordService.cs",
-              "RelativeDocumentMoniker": "Services\\Implements\\BannedWordService.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Services\\Implements\\BannedWordService.cs",
-              "RelativeToolTip": "Services\\Implements\\BannedWordService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "GameCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\DTOs\\Games\\GameCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Games\\GameCreateDto.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\DTOs\\Games\\GameCreateDto.cs",
+              "RelativeToolTip": "DTOs\\Games\\GameCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T08:35:06.933Z",
+              "WhenOpened": "2024-12-26T08:18:31.985Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Services\\Implements\\GameService.cs",
+              "RelativeDocumentMoniker": "Services\\Implements\\GameService.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Services\\Implements\\GameService.cs",
+              "RelativeToolTip": "Services\\Implements\\GameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:16:31.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGameService.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Services\\Abstracts\\IGameService.cs",
+              "RelativeDocumentMoniker": "Services\\Abstracts\\IGameService.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Services\\Abstracts\\IGameService.cs",
+              "RelativeToolTip": "Services\\Abstracts\\IGameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:16:07.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "IBannedWordService.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Services\\Abstracts\\IBannedWordService.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Services\\Abstracts\\IBannedWordService.cs",
               "RelativeDocumentMoniker": "Services\\Abstracts\\IBannedWordService.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Services\\Abstracts\\IBannedWordService.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Services\\Abstracts\\IBannedWordService.cs",
               "RelativeToolTip": "Services\\Abstracts\\IBannedWordService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -196,37 +234,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "BannedWordUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\DTOs\\BannerWords\\BannedWordUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\DTOs\\BannerWords\\BannedWordUpdateDto.cs",
               "RelativeDocumentMoniker": "DTOs\\BannerWords\\BannedWordUpdateDto.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\DTOs\\BannerWords\\BannedWordUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\DTOs\\BannerWords\\BannedWordUpdateDto.cs",
               "RelativeToolTip": "DTOs\\BannerWords\\BannedWordUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T08:03:11.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T08:03:11.325Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "BannedWordsController.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Controllers\\BannedWordsController.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Controllers\\BannedWordsController.cs",
               "RelativeDocumentMoniker": "Controllers\\BannedWordsController.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Controllers\\BannedWordsController.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Controllers\\BannedWordsController.cs",
               "RelativeToolTip": "Controllers\\BannedWordsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T08:34:32.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T08:34:32.774Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "WordsController.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Controllers\\WordsController.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Controllers\\WordsController.cs",
               "RelativeDocumentMoniker": "Controllers\\WordsController.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Controllers\\WordsController.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Controllers\\WordsController.cs",
               "RelativeToolTip": "Controllers\\WordsController.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAA5wCsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -235,24 +271,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "LanguagesController.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Controllers\\LanguagesController.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Controllers\\LanguagesController.cs",
               "RelativeDocumentMoniker": "Controllers\\LanguagesController.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Controllers\\LanguagesController.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Controllers\\LanguagesController.cs",
               "RelativeToolTip": "Controllers\\LanguagesController.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAgwEMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T19:39:35.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T19:39:35.924Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "BannedWordProfile.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Profiles\\BannedWordProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Profiles\\BannedWordProfile.cs",
               "RelativeDocumentMoniker": "Profiles\\BannedWordProfile.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Profiles\\BannedWordProfile.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Profiles\\BannedWordProfile.cs",
               "RelativeToolTip": "Profiles\\BannedWordProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -261,210 +296,204 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BannedWord.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Entities\\BannedWord.cs",
-              "RelativeDocumentMoniker": "Entities\\BannedWord.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Entities\\BannedWord.cs",
-              "RelativeToolTip": "Entities\\BannedWord.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T23:01:27.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WordService.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Services\\Implements\\WordService.cs",
-              "RelativeDocumentMoniker": "Services\\Implements\\WordService.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Services\\Implements\\WordService.cs",
-              "RelativeToolTip": "Services\\Implements\\WordService.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAwwEwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T08:35:26.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LanguageService.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Services\\Implements\\LanguageService.cs",
-              "RelativeDocumentMoniker": "Services\\Implements\\LanguageService.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Services\\Implements\\LanguageService.cs",
-              "RelativeToolTip": "Services\\Implements\\LanguageService.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwCgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T14:01:11.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ILanguageService.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Services\\Abstracts\\ILanguageService.cs",
-              "RelativeDocumentMoniker": "Services\\Abstracts\\ILanguageService.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Services\\Abstracts\\ILanguageService.cs",
-              "RelativeToolTip": "Services\\Abstracts\\ILanguageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T08:38:04.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LanguageProfile.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Profiles\\LanguageProfile.cs",
-              "RelativeDocumentMoniker": "Profiles\\LanguageProfile.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Profiles\\LanguageProfile.cs",
-              "RelativeToolTip": "Profiles\\LanguageProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T19:26:57.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Language.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Entities\\Language.cs",
-              "RelativeDocumentMoniker": "Entities\\Language.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Entities\\Language.cs",
-              "RelativeToolTip": "Entities\\Language.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T23:03:42.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "WordForGameDto.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\DTOs\\Words\\WordForGameDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\Words\\WordForGameDto.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\DTOs\\Words\\WordForGameDto.cs",
-              "RelativeToolTip": "DTOs\\Words\\WordForGameDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T13:30:42.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LanguageCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\DTOs\\Languages\\LanguageCreateDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\Languages\\LanguageCreateDto.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\DTOs\\Languages\\LanguageCreateDto.cs",
-              "RelativeToolTip": "DTOs\\Languages\\LanguageCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T18:41:40.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "WordCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\DTOs\\Words\\WordCreateDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\Words\\WordCreateDto.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\DTOs\\Words\\WordCreateDto.cs",
-              "RelativeToolTip": "DTOs\\Words\\WordCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T08:04:47.169Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\appsettings.json",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-20T13:58:49.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "WordCreateDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Validators\\Words\\WordCreateDtoValidator.cs",
-              "RelativeDocumentMoniker": "Validators\\Words\\WordCreateDtoValidator.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Validators\\Words\\WordCreateDtoValidator.cs",
-              "RelativeToolTip": "Validators\\Words\\WordCreateDtoValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "BannedWordService.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Services\\Implements\\BannedWordService.cs",
+              "RelativeDocumentMoniker": "Services\\Implements\\BannedWordService.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Services\\Implements\\BannedWordService.cs",
+              "RelativeToolTip": "Services\\Implements\\BannedWordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T08:08:25.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-12-24T08:35:06.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Entities\\Game.cs",
-              "RelativeDocumentMoniker": "Entities\\Game.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Entities\\Game.cs",
-              "RelativeToolTip": "Entities\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "BannedWord.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Entities\\BannedWord.cs",
+              "RelativeDocumentMoniker": "Entities\\BannedWord.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Entities\\BannedWord.cs",
+              "RelativeToolTip": "Entities\\BannedWord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T23:01:09.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T23:01:27.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WordService.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Services\\Implements\\WordService.cs",
+              "RelativeDocumentMoniker": "Services\\Implements\\WordService.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Services\\Implements\\WordService.cs",
+              "RelativeToolTip": "Services\\Implements\\WordService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:35:26.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Services\\Implements\\LanguageService.cs",
+              "RelativeDocumentMoniker": "Services\\Implements\\LanguageService.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Services\\Implements\\LanguageService.cs",
+              "RelativeToolTip": "Services\\Implements\\LanguageService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:01:11.463Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Word.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Entities\\Word.cs",
-              "RelativeDocumentMoniker": "Entities\\Word.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Entities\\Word.cs",
-              "RelativeToolTip": "Entities\\Word.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAlAAAAAAAAAA==",
+              "Title": "ILanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Services\\Abstracts\\ILanguageService.cs",
+              "RelativeDocumentMoniker": "Services\\Abstracts\\ILanguageService.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Services\\Abstracts\\ILanguageService.cs",
+              "RelativeToolTip": "Services\\Abstracts\\ILanguageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T23:01:00.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T08:38:04.536Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IWordService.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Services\\Abstracts\\IWordService.cs",
-              "RelativeDocumentMoniker": "Services\\Abstracts\\IWordService.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Services\\Abstracts\\IWordService.cs",
-              "RelativeToolTip": "Services\\Abstracts\\IWordService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "LanguageProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Profiles\\LanguageProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\LanguageProfile.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Profiles\\LanguageProfile.cs",
+              "RelativeToolTip": "Profiles\\LanguageProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T08:38:31.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T19:26:57.187Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "WordProfile.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Profiles\\WordProfile.cs",
-              "RelativeDocumentMoniker": "Profiles\\WordProfile.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Profiles\\WordProfile.cs",
-              "RelativeToolTip": "Profiles\\WordProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Title": "Language.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Entities\\Language.cs",
+              "RelativeDocumentMoniker": "Entities\\Language.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Entities\\Language.cs",
+              "RelativeToolTip": "Entities\\Language.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T08:31:04.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T23:03:42.317Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
+              "Title": "WordForGameDto.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\DTOs\\Words\\WordForGameDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Words\\WordForGameDto.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\DTOs\\Words\\WordForGameDto.cs",
+              "RelativeToolTip": "DTOs\\Words\\WordForGameDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:30:42.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LanguageCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\DTOs\\Languages\\LanguageCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Languages\\LanguageCreateDto.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\DTOs\\Languages\\LanguageCreateDto.cs",
+              "RelativeToolTip": "DTOs\\Languages\\LanguageCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:41:40.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WordCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\DTOs\\Words\\WordCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Words\\WordCreateDto.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\DTOs\\Words\\WordCreateDto.cs",
+              "RelativeToolTip": "DTOs\\Words\\WordCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:04:47.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WordCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Validators\\Words\\WordCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\Words\\WordCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Validators\\Words\\WordCreateDtoValidator.cs",
+              "RelativeToolTip": "Validators\\Words\\WordCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:08:25.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Entities\\Game.cs",
+              "RelativeDocumentMoniker": "Entities\\Game.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Entities\\Game.cs",
+              "RelativeToolTip": "Entities\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T23:01:09.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Word.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Entities\\Word.cs",
+              "RelativeDocumentMoniker": "Entities\\Word.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Entities\\Word.cs",
+              "RelativeToolTip": "Entities\\Word.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T23:01:00.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IWordService.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Services\\Abstracts\\IWordService.cs",
+              "RelativeDocumentMoniker": "Services\\Abstracts\\IWordService.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Services\\Abstracts\\IWordService.cs",
+              "RelativeToolTip": "Services\\Abstracts\\IWordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:38:31.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WordProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Profiles\\WordProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\WordProfile.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Profiles\\WordProfile.cs",
+              "RelativeToolTip": "Profiles\\WordProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:31:04.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "WordUpdateDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Validators\\Words\\WordUpdateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Validators\\Words\\WordUpdateDtoValidator.cs",
               "RelativeDocumentMoniker": "Validators\\Words\\WordUpdateDtoValidator.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Validators\\Words\\WordUpdateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Validators\\Words\\WordUpdateDtoValidator.cs",
               "RelativeToolTip": "Validators\\Words\\WordUpdateDtoValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -472,11 +501,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\ServiceRegistration.cs",
               "RelativeDocumentMoniker": "ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\ServiceRegistration.cs",
               "RelativeToolTip": "ServiceRegistration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -484,11 +513,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Program.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAqwBkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -496,11 +525,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "LanguageCreateDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Validators\\Languages\\LanguageCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Validators\\Languages\\LanguageCreateDtoValidator.cs",
               "RelativeDocumentMoniker": "Validators\\Languages\\LanguageCreateDtoValidator.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Validators\\Languages\\LanguageCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Validators\\Languages\\LanguageCreateDtoValidator.cs",
               "RelativeToolTip": "Validators\\Languages\\LanguageCreateDtoValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -508,11 +537,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "TabuDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\DAL\\TabuDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\DAL\\TabuDbContext.cs",
               "RelativeDocumentMoniker": "DAL\\TabuDbContext.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\DAL\\TabuDbContext.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\DAL\\TabuDbContext.cs",
               "RelativeToolTip": "DAL\\TabuDbContext.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -520,11 +549,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "20241224150448_GamesCreated.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Migrations\\20241224150448_GamesCreated.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Migrations\\20241224150448_GamesCreated.cs",
               "RelativeDocumentMoniker": "Migrations\\20241224150448_GamesCreated.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Migrations\\20241224150448_GamesCreated.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Migrations\\20241224150448_GamesCreated.cs",
               "RelativeToolTip": "Migrations\\20241224150448_GamesCreated.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -532,11 +561,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "BannedWordNotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Exceptions\\BannerWord\\BannedWordNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Exceptions\\BannerWord\\BannedWordNotFoundException.cs",
               "RelativeDocumentMoniker": "Exceptions\\BannerWord\\BannedWordNotFoundException.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Exceptions\\BannerWord\\BannedWordNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Exceptions\\BannerWord\\BannedWordNotFoundException.cs",
               "RelativeToolTip": "Exceptions\\BannerWord\\BannedWordNotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -544,11 +573,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "BannedWordExistException.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Exceptions\\BannerWord\\BannedWordExistException.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Exceptions\\BannerWord\\BannedWordExistException.cs",
               "RelativeDocumentMoniker": "Exceptions\\BannerWord\\BannedWordExistException.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Exceptions\\BannerWord\\BannedWordExistException.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Exceptions\\BannerWord\\BannedWordExistException.cs",
               "RelativeToolTip": "Exceptions\\BannerWord\\BannedWordExistException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -556,11 +585,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "LanguageNotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Exceptions\\Language\\LanguageNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Exceptions\\Language\\LanguageNotFoundException.cs",
               "RelativeDocumentMoniker": "Exceptions\\Language\\LanguageNotFoundException.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Exceptions\\Language\\LanguageNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Exceptions\\Language\\LanguageNotFoundException.cs",
               "RelativeToolTip": "Exceptions\\Language\\LanguageNotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -568,11 +597,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "WordNotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Exceptions\\Word\\WordNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Exceptions\\Word\\WordNotFoundException.cs",
               "RelativeDocumentMoniker": "Exceptions\\Word\\WordNotFoundException.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Exceptions\\Word\\WordNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Exceptions\\Word\\WordNotFoundException.cs",
               "RelativeToolTip": "Exceptions\\Word\\WordNotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -580,11 +609,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "WordExistException.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Exceptions\\Word\\WordExistException.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Exceptions\\Word\\WordExistException.cs",
               "RelativeDocumentMoniker": "Exceptions\\Word\\WordExistException.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Exceptions\\Word\\WordExistException.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Exceptions\\Word\\WordExistException.cs",
               "RelativeToolTip": "Exceptions\\Word\\WordExistException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -592,11 +621,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "IBaseException.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Exceptions\\IBaseException.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Exceptions\\IBaseException.cs",
               "RelativeDocumentMoniker": "Exceptions\\IBaseException.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Exceptions\\IBaseException.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Exceptions\\IBaseException.cs",
               "RelativeToolTip": "Exceptions\\IBaseException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -604,11 +633,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "BannedWordUpdateDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Validators\\BannerWords\\BannedWordUpdateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Validators\\BannerWords\\BannedWordUpdateDtoValidator.cs",
               "RelativeDocumentMoniker": "Validators\\BannerWords\\BannedWordUpdateDtoValidator.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Validators\\BannerWords\\BannedWordUpdateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Validators\\BannerWords\\BannedWordUpdateDtoValidator.cs",
               "RelativeToolTip": "Validators\\BannerWords\\BannedWordUpdateDtoValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -616,11 +645,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "LanguageExistException.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Exceptions\\Language\\LanguageExistException.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Exceptions\\Language\\LanguageExistException.cs",
               "RelativeDocumentMoniker": "Exceptions\\Language\\LanguageExistException.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Exceptions\\Language\\LanguageExistException.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Exceptions\\Language\\LanguageExistException.cs",
               "RelativeToolTip": "Exceptions\\Language\\LanguageExistException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -628,11 +657,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "20241224074718_Word-BannerWord-Games-Created.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Migrations\\20241224074718_Word-BannerWord-Games-Created.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Migrations\\20241224074718_Word-BannerWord-Games-Created.cs",
               "RelativeDocumentMoniker": "Migrations\\20241224074718_Word-BannerWord-Games-Created.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Migrations\\20241224074718_Word-BannerWord-Games-Created.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Migrations\\20241224074718_Word-BannerWord-Games-Created.cs",
               "RelativeToolTip": "Migrations\\20241224074718_Word-BannerWord-Games-Created.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -640,11 +669,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "LanguageUpdateDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Validators\\Languages\\LanguageUpdateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Validators\\Languages\\LanguageUpdateDtoValidator.cs",
               "RelativeDocumentMoniker": "Validators\\Languages\\LanguageUpdateDtoValidator.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Validators\\Languages\\LanguageUpdateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Validators\\Languages\\LanguageUpdateDtoValidator.cs",
               "RelativeToolTip": "Validators\\Languages\\LanguageUpdateDtoValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -652,11 +681,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "Tabu.csproj",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Tabu.csproj",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Tabu.csproj",
               "RelativeDocumentMoniker": "Tabu.csproj",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\TabuApi\\Tabu\\Tabu.csproj",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\TabuApi\\Tabu\\Tabu.csproj",
               "RelativeToolTip": "Tabu.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
