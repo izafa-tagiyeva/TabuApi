@@ -21,6 +21,59 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "Tabu.Controllers.GameController",
+    "Method": "Create",
+    "RelativePath": "api/Game",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Tabu.DTOs.Games.GameCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tabu.Controllers.GameController",
+    "Method": "Get",
+    "RelativePath": "api/Game/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tabu.Controllers.GameController",
+    "Method": "Set",
+    "RelativePath": "api/Game/Set",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "value",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Tabu.Controllers.LanguagesController",
     "Method": "Read",
     "RelativePath": "api/Languages",

@@ -1,14 +1,19 @@
-﻿using Tabu.DAL;
+﻿using AutoMapper;
+using Tabu.DAL;
+using Tabu.DTOs.Games;
 using Tabu.Entities;
 using Tabu.Services.Abstracts;
 
 namespace Tabu.Services.Implements
 {
-    public class GameService(TabuDbContext _context) : IGameService
+    public class GameService(TabuDbContext _context, IMapper _mapper) : IGameService
     {
-        public Task CreateAsync(Game Dto)
+        public async Task<Guid> CreateAsync(GameCreateDto dto)
         {
-            throw new NotImplementedException();
+            var game = _mapper.Map<Game>(dto);
+            await _context.Games.AddAsync(game);
+            await _context.SaveChangesAsync();
+            return game.Id;
         }
 
         public Task EndAsync(Guid Id)

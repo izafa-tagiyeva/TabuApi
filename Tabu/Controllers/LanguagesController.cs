@@ -23,32 +23,11 @@ namespace Tabu.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(LanguageCreateDto dto)
         {
-            try
-            {
+            
                 await _service.CreateAsync(dto);
 
                 return Ok("created succesfully");
-            }
-            catch (Exception ex) {
-                if (ex is IBaseException bEx)
-                {
-
-                    return StatusCode(bEx.StatusCode, new
-                    {
-                        
-                        Message = bEx.ErrorMessage          
-                    } );
-                }
-                else
-                {
-                    return BadRequest(
-                        new
-                        {
-
-                            Message = ex.Message,
-                        });
-                }
-            }
+            
            
         }
 

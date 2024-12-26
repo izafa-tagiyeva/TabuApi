@@ -46,6 +46,86 @@
         }
       }
     },
+    "/api/Game": {
+      "post": {
+        "tags": [
+          "Game"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GameCreateDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GameCreateDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/GameCreateDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Game/Get": {
+      "get": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "key",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Game/Set": {
+      "get": {
+        "tags": [
+          "Game"
+        ],
+        "parameters": [
+          {
+            "name": "key",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "value",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Languages": {
       "get": {
         "tags": [
@@ -297,6 +377,32 @@
           "wordId": {
             "type": "integer",
             "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "GameCreateDto": {
+        "type": "object",
+        "properties": {
+          "bannedWordCount": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "failCount": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "skipCount": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "time": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "languageCode": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false

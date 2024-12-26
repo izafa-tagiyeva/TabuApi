@@ -6,7 +6,7 @@ namespace Tabu.Services.Abstracts
 {
     public interface IGameService
     {
-        Task CreateAsync(Game Dto);
+        Task<Guid> CreateAsync(GameCreateDto dto);
         Task StartAsync(Guid Id);
         Task FailAsync(Guid Id);
         Task SuccessAsync(Guid Id);
